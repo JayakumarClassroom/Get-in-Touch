@@ -9,7 +9,12 @@ _**Further Queries:**_ <br>
 _Prof. Jayakumar Sasdhasivam_ <br>
 _Email: jayakumars@vit.ac.in_ <br>
 _Mobile: 09488881826_ <br>
-_Office: SJT 510 A03_
+_Office: SJT 510 A03_ <br><br>
+_**Address:**_ <br>
+_School of Information Technology and Engineering,_ <br>
+_Vellore Institute of Technology,_ <br>
+_Vellore, Tamil Nadu, India._
+
 
 [![alt text][3.1]][3]
 [![alt text][1.1]][1]
