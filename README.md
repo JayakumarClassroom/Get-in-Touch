@@ -23,9 +23,9 @@ _Vellore, Tamil Nadu, India._
 
 
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[1.1]: http://i.imgur.com/tXSoThF.png (Jayakumar - Twitter)
+[2.1]: http://i.imgur.com/P3YfQoD.png (Jayakumar - Facebook)
+[3.1]: http://i.imgur.com/0o48UoR.png (Jayakumar - GitHub)
 
 [1]: http://www.twitter.com/iamjayakumars
 [2]: http://www.facebook.com/iamjayakumars
