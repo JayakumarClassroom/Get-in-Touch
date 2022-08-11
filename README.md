@@ -12,7 +12,7 @@ _Email: jayakumars@vit.ac.in_ <br>
 _Mobile: 09488881826_ <br>
 _Office: SJT 510 A03_ <br><br>
 _**Address:**_ <br>
-_School of Computer Science and Engineering ,_ <br>
+_School of Information Technology and Engineering,_ <br>
 _Vellore Institute of Technology,_ <br>
 _Vellore, Tamil Nadu, India._
 
